@@ -1,5 +1,4 @@
-# DataMining
-# 								实验报告
+# 					DataMining实验报告
 
 ## 实验名称
 
